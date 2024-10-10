@@ -9,10 +9,6 @@ cypress/downloads/
 # Ignorar la carpeta versions y sus subdirectorios en Ghost
 versions/
 
-# Ignorar contenido dinámico de Ghost
-content/
-current/
-
 # Ignorar archivos de configuración temporal y logs
 *.log
 *.lock
